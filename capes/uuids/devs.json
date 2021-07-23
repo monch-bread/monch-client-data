@@ -1,0 +1,17 @@
+[
+  {
+    "id": 726799254021996565,
+    "capes": [
+      {
+        "cape_uuid": "58d85",
+        "player_uuid": "792bcbfc-66bf-4363-ae81-ebc43641faa2",
+        "type": "CONTRIBUTOR",
+        "color": {
+          "primary": "ffffff",
+          "border": "000000"
+        }
+      }
+    ],
+    "is_premium": true
+  }
+]
