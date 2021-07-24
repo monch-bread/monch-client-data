@@ -22,8 +22,8 @@
         "player_uuid": "3274faa0-b99c-43e4-9f3a-7b4645b170e6",
         "type": "BREAD",
         "color": {
-          "primary": "7f7f7f",
-          "border": "c3c3c3"
+          "primary": "c3c3c3",
+          "border": "7f7f7f"
         }
       }
     ],
