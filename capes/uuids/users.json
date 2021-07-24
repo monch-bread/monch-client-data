@@ -37,8 +37,8 @@
         "player_uuid": "f1d393e2-460f-423a-a3cf-1a836cd0aa94",
         "type": "MATRIX_BREAD",
         "color": {
-          "primary": "c3c3c3",
-          "border": "7f7f7f"
+          "primary": "ff0000",
+          "border": "00ff00"
         }
       }
     ],
