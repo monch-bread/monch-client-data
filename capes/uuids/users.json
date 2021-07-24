@@ -5,7 +5,7 @@
       {
         "cape_uuid": "58d85",
         "player_uuid": "792bcbfc-66bf-4363-ae81-ebc43641faa2",
-        "type": "BREAD_DEV",
+        "type": "DEV",
         "color": {
           "primary": "e523ef",
           "border": "a50aad"
@@ -35,7 +35,7 @@
       {
         "cape_uuid": "58d85",
         "player_uuid": "f1d393e2-460f-423a-a3cf-1a836cd0aa94",
-        "type": "MATRIX_BREAD",
+        "type": "MATRIX",
         "color": {
           "primary": "ff0000",
           "border": "00ff00"
