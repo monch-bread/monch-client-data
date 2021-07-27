@@ -38,10 +38,10 @@
       {
         "cape_uuid": "58d85",
         "player_uuid": "f14c348d-4e38-415a-aba5-8688c71d7288",
-        "type": "MATRIX",
+        "type": "BREAD",
         "color": {
-          "primary": "ff0000",
-          "border": "00ff00"
+          "primary": "969696",
+          "border": "787878"
         }
       }
     ],
