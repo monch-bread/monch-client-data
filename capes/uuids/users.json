@@ -14,7 +14,7 @@
       {
         "cape_uuid": "58d85",
         "player_uuid": "3274faa0-b99c-43e4-9f3a-7b4645b170e6",
-        "type": "BREAD",
+        "type": "DEV",
         "color": {
           "primary": "c3c3c3",
           "border": "7f7f7f"
@@ -23,7 +23,7 @@
       {
         "cape_uuid": "58d85",
         "player_uuid": "f1d393e2-460f-423a-a3cf-1a836cd0aa94",
-        "type": "MATRIX",
+        "type": "DEV",
         "color": {
           "primary": "ff0000",
           "border": "00ff00"
