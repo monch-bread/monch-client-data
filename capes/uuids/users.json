@@ -47,6 +47,7 @@
     ],
     "is_premium": true
   },
+  
   {
     "id": 271455884826116096,
     "capes": [
@@ -61,5 +62,118 @@
       }
     ],
     "is_premium": true
+  },
+
+  {
+    "id": 851576352163364875,
+    "capes": [
+      {
+        "cape_uuid": "58d85",
+        "player_uuid": "cbffa51e-2175-4c16-9572-1f82c87fa280",
+        "type": "BREAD",
+        "color": {
+          "primary": "969696",
+          "border": "787878"
+        }
+      }
+    ],
+    "is_premium": true
+  },
+  
+  {
+    "id": 500743654328238090,
+    "capes": [
+      {
+        "cape_uuid": "58d85",
+        "player_uuid": "7c7bfc0c-02e5-4c70-879d-b6cfbd2041a2",
+        "type": "BREAD",
+        "color": {
+          "primary": "969696",
+          "border": "787878"
+        }
+      }
+    ],
+    "is_premium": true
+  },
+  
+  {
+    "id": 271455884826116096,
+    "capes": [
+      {
+        "cape_uuid": "58d85",
+        "player_uuid": "fcba55da-7685-43b6-acba-76c416161ba1",
+        "type": "BREAD",
+        "color": {
+          "primary": "969696",
+          "border": "787878"
+        }
+      }
+    ],
+    "is_premium": true
+  },
+  
+  {
+    "id": 265075497837264906,
+    "capes": [
+      {
+        "cape_uuid": "58d85",
+        "player_uuid": "21fc9473-86e1-4c26-a20d-46a466469b14",
+        "type": "BREAD",
+        "color": {
+          "primary": "969696",
+          "border": "787878"
+        }
+      }
+    ],
+    "is_premium": true
+  },
+  
+  {
+    "id": 238200898835316736,
+    "capes": [
+      {
+        "cape_uuid": "58d85",
+        "player_uuid": "a9cfbd93-140f-4814-867f-98ce585415ea",
+        "type": "BREAD",
+        "color": {
+          "primary": "969696",
+          "border": "787878"
+        }
+      }
+    ],
+    "is_premium": true
+  },
+  
+  {
+    "id": 640146292663910411,
+    "capes": [
+      {
+        "cape_uuid": "58d85",
+        "player_uuid": "c7aeb137-8e91-4e53-8b96-43e94c0dcecb",
+        "type": "BREAD",
+        "color": {
+          "primary": "969696",
+          "border": "787878"
+        }
+      }
+    ],
+    "is_premium": true
+  },
+
+  {
+    "id": 505420732029861888,
+    "capes": [
+      {
+        "cape_uuid": "58d85",
+        "player_uuid": "b6843ea0-bdf0-4327-aa34-a09542da0de1",
+        "type": "BREAD",
+        "color": {
+          "primary": "969696",
+          "border": "787878"
+        }
+      }
+    ],
+    "is_premium": true
   }
+
 ]
