@@ -167,6 +167,38 @@
       }
     ],
     "is_premium": true
-  }
+  },
+  
+  {
+    "id": 754622691243327537,
+    "capes": [
+      {
+        "cape_uuid": "58d85",
+        "player_uuid": "b2eb7d62-def3-4222-8b77-d755cddb471e",
+        "type": "BREAD",
+        "color": {
+          "primary": "969696",
+          "border": "787878"
+        }
+      }
+    ],
+    "is_premium": true
+  },
 
+  {
+    "id": 720189715504169051,
+    "capes": [
+      {
+        "cape_uuid": "58d85",
+        "player_uuid": "25768508-3221-4bd7-abb5-c42d38ed6183",
+        "type": "BREAD",
+        "color": {
+          "primary": "969696",
+          "border": "787878"
+        }
+      }
+    ],
+    "is_premium": true
+  }
+  
 ]
