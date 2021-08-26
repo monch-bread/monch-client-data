@@ -5,7 +5,7 @@
       {
         "cape_uuid": "58d85",
         "player_uuid": "792bcbfc-66bf-4363-ae81-ebc43641faa2",
-        "type": "DEV",
+        "type": "FEDORA",
         "color": {
           "primary": "e523ef",
           "border": "a50aad"
@@ -47,7 +47,6 @@
     ],
     "is_premium": true
   },
-  
   {
     "id": 271455884826116096,
     "capes": [
@@ -72,7 +71,6 @@
     ],
     "is_premium": true
   },
-
   {
     "id": 851576352163364875,
     "capes": [
@@ -88,7 +86,6 @@
     ],
     "is_premium": true
   },
-  
   {
     "id": 500743654328238090,
     "capes": [
@@ -104,7 +101,6 @@
     ],
     "is_premium": true
   },
-  
   {
     "id": 265075497837264906,
     "capes": [
@@ -120,7 +116,6 @@
     ],
     "is_premium": true
   },
-  
   {
     "id": 238200898835316736,
     "capes": [
@@ -136,7 +131,6 @@
     ],
     "is_premium": true
   },
-  
   {
     "id": 640146292663910411,
     "capes": [
@@ -152,7 +146,6 @@
     ],
     "is_premium": true
   },
-
   {
     "id": 505420732029861888,
     "capes": [
@@ -168,7 +161,6 @@
     ],
     "is_premium": true
   },
-  
   {
     "id": 754622691243327537,
     "capes": [
@@ -184,7 +176,6 @@
     ],
     "is_premium": true
   },
-
   {
     "id": 720189715504169051,
     "capes": [
@@ -200,7 +191,6 @@
     ],
     "is_premium": true
   },
-  
   {
     "id": 730803919185248426,
     "capes": [
@@ -216,6 +206,4 @@
     ],
     "is_premium": true
   }
-  
-  
 ]
