@@ -5,10 +5,10 @@
       {
         "cape_uuid": "58d85",
         "player_uuid": "792bcbfc-66bf-4363-ae81-ebc43641faa2",
-        "type": "FEDORA",
+        "type": "DEV",
         "color": {
-          "primary": "e523ef",
-          "border": "a50aad"
+          "primary": "e523ef30",
+          "border": "a50aad50"
         }
       },
       {
