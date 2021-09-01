@@ -8,7 +8,8 @@
         "type": "DEV",
         "color": {
           "primary": "e523ef",
-          "border": "a50aad"
+          "border": "a50aad",
+          "alpha": 60
         }
       },
       {
