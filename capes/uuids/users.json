@@ -43,6 +43,7 @@
         "color": {
           "primary": "969696",
           "border": "787878"
+          "alpha": 60
         }
       }
     ],
@@ -202,6 +203,22 @@
         "color": {
           "primary": "00FFFF",
           "border": "00d1d1"
+        }
+      }
+    ],
+    "is_premium": true
+  },
+  {
+    "id": 726799254021996565,
+    "capes": [
+      {
+        "cape_uuid": "58d85",
+        "player_uuid": "8103c0f5-b5d8-447a-843d-dabfc6950997",
+        "type": "DEV",
+        "color": {
+          "primary": "969696",
+          "border": "787878",
+          "alpha": 60
         }
       }
     ],
